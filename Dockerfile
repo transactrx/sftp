@@ -1,6 +1,5 @@
 FROM debian:buster
 
-
 # - Install packages
 # - OpenSSH needs /var/run/sshd to run
 # - Remove generic host keys, entrypoint generates unique keys
